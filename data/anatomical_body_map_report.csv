@@ -1,0 +1,11 @@
+Organ_System,Status,Evidence_Notes
+Brain & Central Nervous System,Not Assessed,Scan modality does not cover this specific anatomical subsystem.
+Heart & Blood Vessels,Not Detected,Evaluated via CT scan (test_scan.dcm). No acute structural anomaly detected within resolution limits.
+Lungs & Respiratory System,Not Detected,Evaluated via CT scan (test_scan.dcm). No acute structural anomaly detected within resolution limits.
+Liver & Hepatic System,Further Evaluation Required,Partial capture in CT scan. Secondary targeted imaging required for deep tissue verification.
+Kidneys & Renal System,Further Evaluation Required,Partial capture in CT scan. Secondary targeted imaging required for deep tissue verification.
+Digestive System & Intestines,Not Assessed,Scan modality does not cover this specific anatomical subsystem.
+Lymphatic System & Spleen,Not Assessed,Scan modality does not cover this specific anatomical subsystem.
+Bone Marrow & Skeletal System,Not Assessed,Scan modality does not cover this specific anatomical subsystem.
+Reproductive Organs,Not Assessed,Scan modality does not cover this specific anatomical subsystem.
+Skin & External Tissues,Not Assessed,Scan modality does not cover this specific anatomical subsystem.

@@ -1,0 +1,6 @@
+Anatomical_Region,Reservoir_Type,Analyte_Investigated,Detection_Feasibility,Active_vs_Latent,Clinical_Status
+Peripheral Blood,Central/Effector Memory T-Cells,Cell-associated DNA / Plasma RNA,Routine (Blood Sample),Latent provirus + Low baseline transcription,Suppressed (<20 copies/mL on ART)
+Lymph Nodes,Germinal Center Follicular T-helper Cells,Proviral DNA / p24 Protein,Invasive Biopsy / FNA Required,High density of transcriptionally silent provirus,Refractory Sanctuary Site
+Gut-Associated Lymphoid Tissue (GALT),Lamina Propria Memory T-Cells,Cell-Associated RNA / DNA,Endoscopic Mucosal Biopsy Required,Major early depletion site with persistent latency,High Persistence Density
+Brain & Central Nervous System,Microglia & Perivascular Macrophages,CSF Viral Load / Cell-associated DNA,Lumbar Puncture (CSF Sample),Compartmentalized viral replication/latency,Blood-Brain Barrier Protected
+Bone Marrow,Hematopoietic Stem Cells (HSCs),CD34+ Sorted Proviral DNA,Bone Marrow Aspiration Required,Long-lived progenitor cellular latency,Deep Sanctuarial Reserve
